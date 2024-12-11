@@ -1,131 +1,277 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome USER_NAME,
-
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
-
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
-
-### Connecting your Mongo database
-
-- **Connect to Mongo CLI on a IDE**
-- navigate to your MongoDB Clusters Sandbox
-- click **"Connect"** button
-- select **"Connect with the MongoDB shell"**
-- select **"I have the mongo shell installed"**
-- choose **mongosh (2.0 or later)** for : **"Select your mongo shell version"**
-- choose option: **"Run your connection string in your command line"**
-- in the terminal, paste the copied code `mongo "mongodb+srv://<CLUSTER-NAME>.mongodb.net/<DBname>" --apiVersion 1 --username <USERNAME>`
-  - replace all `<angle-bracket>` keys with your own data
-- enter password _(will not echo **\*\*\*\*** on screen)_
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**June 18, 2024,** Add Mongo back into template
-
-**June 14, 2024,** Temporarily remove Mongo until the key issue is resolved
-
-**May 28 2024:** Fix Mongo and Links installs
-
-**April 26 2024:** Update node version to 16
-
-**September 20 2023:** Update Python version to 3.9.17.
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+![Website Logo](image/enter_your_filepath_here.PNG)
 
 ---
 
-Happy coding!
+
+# *Website_Name*
+
+[View Website_Name here](https://yourusername.github.io/website_name/index.html)
+
+---
+
+## User Experience (UX)
+
+
+  ### Target Audience
+  The target audience for this E-commerce platform is for those looking to either purchase a handmade pottery product or parttake in pottery classes and/or workshops. This website in particular is directed at adults looking to purchase a unique, and handcrafted gift (for themselves or soemone else), in addition to adults looking to parttake in pottery as a hobby on a regular or casual basis. The aim is to connect the products with the services offered and convert both consumer types to the aforementioned product(s) or service(s).
+  
+  ### User Stories
+
+  #### First Time Visitor
+  As a first time visitor I want to:
+  - easily understand what the website is about, so that I can quickly decide if the content is relevant to me.
+  - navigate the site with ease.
+  - learn more about what products and services are available and if they apply to me.
+  - register an account.
+  - learn more about pottery.
+
+  #### Return Visitor
+  As a return visitor I want to:
+  - quickly find new products/services since my last visit.
+  - easily filter products/services to find those relevant to what I'm looking for.
+  - purchase a product/service with ease.
+  - safely purchase a product/service.
+  - receive a confirmation email to say that my transaction was completed safely and the details of my purchase.
+
+  #### Admin
+  As site admin I want to:
+  - enhance user experience.
+  - grow and engage the audience.
+  - convert site visits to sales.
+  - easily manage customer orders and fulfill them with ease.
+
+---
+
+
+## Design
+
+*SAMPLE*
+The website is designed with three separate pages. This is to ensure ease of use, and for the length of each page to remain concise on a mobile device. It has an intuitive interface with clear navigation. This is emphasised with colour and imagery, allowing for quick access to facilities and respective socials.
+
+
+  ### Colour Scheme
+
+  There is a great emphasis on ...... for this website. I wanted it to reflect... <br>
+  The colour scheme of the website illustrates...
+
+  ![Hero Image](assets/images/hero.png)
+
+  This palette holds...Many of the colours were extracted from this image and are accented throughout the website.
+
+  ![Website Colour Palette](docs/colour-palette.png)
+
+  This palette extracts......found in the hero image. It is used primarily for defining elements such as headings, areas of importance or quick reference.
+
+  ![Website Colour Palette](docs/colour-palette-2.png)
+
+  Both colour palettes were created using the [Coolors](https://coolors.co/) website.
+
+
+  ### Typography
+
+
+  [Name of font](https://link_to_font_here)
+
+  ![Name of Font](filepath/to/font/image.PNG)
+*SAMPLE*
+    - This font has an illustration-type quality to it, which reflects the theme of the website. It adds some fun, looks hand-drawn and mirrors the chosen style of favicon. It is illustrative, yet has a structural integrity and readability to it. Furthermore, it effortlessly reflects what the website is about. This is primarily used for the website heading "Hobby".
+
+  [Name of font](https://link_to_font_here)
+
+![Name of Font](filepath/to/font/image.PNG)
+*SAMPLE*
+    - This is a legible, sans serif font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read. This is used for more word heavy content sections of the website.
+
+  Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
+
+
+  ### Imagery
+
+  All images were source from [Raw Pixel](https://www.rawpixel.com/).
+
+
+  ### Favicon
+
+    Talk about favicon design choices.
+
+
+  ### Wireframes
+
+  Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and iPhone 12Pro (436px x 867px).
+
+  #### __Home Page__
+
+  ![Website Home Page](filepath/to/wireframes.png)
+
+  #### __Gallery Page__
+
+  ![Website Gallery Page](filepath/to/wireframes.png)
+  #### __Sign Up Page__
+
+  ![Website Sign Up Page](filepath/to/wireframes.png)
+
+
+---
+
+
+## Features
+
+| Features & Pages| Existing Features | Future Implementations | Screenshots |
+| --- | --- | --- | --- |
+*SAMPLE*
+| Navigation Bar | - Visible on all pages. <br> - Kept white so as to remain clear. <br> - The favicon styles are refelcted in the header. <br> - There is a ...... icon to give an idea as to what the page is about. <br> - Has a toggle feature that links to each page when using smaller devices. | --- | ![Naviagtion Bar](docs/features/navigation_bar.PNG) |
+| Hero Image | - Each page features a hero image of XXX. | - Experiment with more options. | ![Hero Image About Page](docs/features/hero_image_about_page.PNG) ![Hero Image Discover Page](docs/features/hero_image_discover_page.PNG) ![Hero Image Sign Up Page](docs/features/hero_image_signup_page.PNG) ![Hero Image Response Page](docs/features/hero_image_response_page.PNG) |
+| Colour | - Block colours are used where there's writing so they do not get lost in the sprinkles background. | ---| ![colour About Page](docs/features/colour_about_page.PNG)  ![colour Discover Page](docs/features/colour_discover_page.PNG) ![colour Sign Up Page](docs/features/colour_signup_page.PNG) ![colour Response Page](docs/features/colour_response_page.PNG) |
+| Footer | - A focal point that stands out clearly with a white background. This is carried throughout each page as it is essential to create a strong social following as the concept of the website is community-based. | - Expand footer to include contact details, T&Cs, Privacy Policy etc. | ![Footer](docs/features/footer.PNG) |
+| About | General landing page that describes what the website & what it is about. | - Add an image carousel. <br> - Add a map listing all hobbies in the area. <br> - Add a preview section of reviews from former clientel. | ![PAGE NAME](docs/features/WEBSITE_NAME/PAGE_NAME.PNG)  |
+| Discover | This is the main directory page. It features a gallery of the hobbies that the website is connected to (actual links to be implemented at later stage of development). They are displayed in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues. | Once data is collected from those wanting to promote their business, club or facility it could be utilized across the website. Each hobby displayed would connect to the organisations offering those services. This would also include: <br> - Links to their socials, webpages, features and contact details. <br> - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs. | ![PAGE NAME](docs/features/hobby_discover_page.PNG) ![PAGE NAME](docs/features/WEBSITE_NAME/PAGE_NAME.PNG)  |
+| Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator data. | Use the page to promote new & upcoming developments. | ![PAGE NAME](docs/features/WEBSITE_NAME/PAGE_NAME.PNG) |
+| Response | - Only activated when the user clicks the 'Subscribe' button for the signup page. It is there to inform the user they have been successful with their subscription. <br> - Home button below notifcation to redirect users. | --- | ![PAGE NAME](docs/features/WEBSITE_NAME/PAGE_NAME.PNG)  |
+
+
+  ### Potential Future Developments
+
+  | Feature | Description |
+  | --- | --- |
+
+
+
+  ### Accessibility
+
+  The entire website was designed with a responsive-first ethos in mind. Some best practices implemented were:
+*SAMPLE*
+   - Using semantic HTML.
+   - Good used of colour contrast throughout the website.
+   - Using alt attributes to create acurate descriptions of each image.
+   - All pages are responsive for various media screen sizes.
+
+
+---
+
+
+## Technologies Used
+
+  ### Languages Used
+
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The foundation of the site.
+  - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - To add the styles and layout of the site.
+
+
+  ### Libraries & Programs Used
+
+*The following is a comprehnsive list of useful tools you can use for a project like this:*
+  - [Am I Responsive?](http://ami.responsivedesign.is/) - To demonstrate the website on a range of devices.
+  - [Balsamiq](https://balsamiq.com/) - To create wireframes.
+  - [Canva](https://www.canva.com/) - To create favicon image.
+  - [Chat GPT](https://chat.openai.com/) - To create written content & general consultation when troubleshooting.
+  - [Codeanywhere](https://codeanywhere.com/) - Initial IDE used; transferred to VS Code midway.
+  - [Coolors](https://coolors.co/) - To create colour palettes.
+  - [Diffchecker](https://www.diffchecker.com/) - To compare segments of code.
+  - [Favicon.io](https://favicon.io/favicon-converter/) - To convert favicon image into suitable sizes.
+  - [Font Awesome](https://fontawesome.com/) - To source any icons used.
+  - [GitHub](https://github.com/) - To store associated files & developments of the website.
+  - [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - For troubleshooting and testing features, styling and responsiveness.
+  - [Google Fonts](https://codeanywhere.com/signin) - To extract fonts for the website.
+  - [Raw Pixel](https://www.rawpixel.com/) - For images.
+  - [VS Code](https://code.visualstudio.com/) - Primary IDE used.
+
+ ### Alternatives
+
+ Fonts
+ - [fontjoy.com](https://fontjoy.com/)
+ - [fontpair.co](https://www.fontpair.co/all)
+ - [typ.io](https://typ.io/)
+
+---
+
+## Deployment & Local Development
+
+
+  ### Deployment
+
+  The site was deployed early using Github Pages. The is how the live site was deployed:
+
+  1. Log in (or sign up) to Github.
+  2. Find the repository for this project, [Kate McGuane / Website_Name](https://github.com/KateMcGuane/Website_Name).
+  3. Click on the Settings link.
+  4. Click on the Pages link in the left hand side navigation bar.
+  5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+  6. Click Save. Your live Github Pages site is now deployed at the URL shown.
+
+
+  ### Local Development
+
+  #### How to Fork
+
+  To fork the Website_Name repository:
+
+  1. Log in (or sign up) to Github.
+  2. Go to the repository for this project, [Kate McGuane / Website_Name](https://github.com/KateMcGuane/Website_Name).
+  3. Click the Fork button in the top right corner. This action will create a copy of the repository under your GitHub account.
+
+
+  #### How to Clone
+
+  To clone the Website_Name repository:
+
+  1. Log in (or sign up) to GitHub.
+  2. Go to the repository for this project, [Kate McGuane / Website_Name](https://github.com/KateMcGuane/Website_Name).
+  3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+  4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+  5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+
+---
+
+
+## Testing
+
+Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
+
+
+---
+
+
+## Credits
+
+  ### Markup
+
+  The markup outline for this project was taken from the following README files:
+  - [KateMcGuane / hobby](https://github.com/KateMcGuane/hobby).
+  - [KateMcGuane / spill_the_beans](https://github.com/KateMcGuane/spill_the_beans)
+
+
+  ### Code Used
+
+  - Did you follow a video tutorial?
+  - Was there a template you used?
+
+<details><summary>Favicon Code</summary>
+
+      <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+  </details>
+
+  ### Content
+
+  - Did you write the content yourself?
+  - Did you source the content from ChatGPT?
+  - Did you use another website as a reference point?
+
+
+  ###  Media
+
+*SAMPLE*
+  - [Canva](https://www.canva.com/) was used for creating the favicon. Their selection of artworks had the best variety & compatibility for application as a favicon.
+  - [Raw Pixel](https://www.rawpixel.com/) was used for sourcing images as it had the best selection available in one place.
+
+
+  ###  Acknowledgments
+  - Thank you to my mentor, cohort leader & CI team for your support and understanding during this project.
+  - To Mikhail, thank you for your continued support.
+
+  ---
+  
+  Developed by Kate McGuane for Code Institute Portfolio Project 5: E-commerce Applications, 2024
+
