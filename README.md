@@ -3,9 +3,9 @@
 ---
 
 
-# *Website_Name*
+# *Kiln & Kin | Pottery Studio*
 
-[View Website_Name here](https://yourusername.github.io/website_name/index.html)
+[Kiln & Kin | Pottery Studio](https://github.com/KateMcGuane/kiln_and_kin_pottery_studio)
 
 ---
 
