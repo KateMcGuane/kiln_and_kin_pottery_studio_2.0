@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-As a Shopper I want to be able to ... so that I can
+As a Shopper I want to be able to ** ** so that I can ** **

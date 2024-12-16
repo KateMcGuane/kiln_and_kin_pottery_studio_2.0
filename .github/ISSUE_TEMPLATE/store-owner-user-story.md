@@ -7,4 +7,4 @@ assignees: KateMcGuane
 
 ---
 
-As a Store Owner I want to be able to ... so that I can
+As a Store Owner I want to be able to** ** so that I can ** **
