@@ -159,6 +159,10 @@ The website is designed with three separate pages. This is to ensure ease of use
 
   ### Libraries & Programs Used
 
+  #### Libraries
+  - [Django Documentation](https://docs.allauth.org/en/latest/installation/quickstart.html) was used to consult the structure of the code and ensure the most up to date versions were applied.
+
+  #### Programs
 *The following is a comprehnsive list of useful tools you can use for a project like this:*
   - [Am I Responsive?](http://ami.responsivedesign.is/) - To demonstrate the website on a range of devices.
   - [Balsamiq](https://balsamiq.com/) - To create wireframes.
@@ -243,6 +247,7 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
   ### Code Used
 
+  - [CI Full Template](https://github.com/Code-Institute-Org/ci-full-template) was used for creating the initial repository.
   - Did you follow a video tutorial?
   - Was there a template you used?
 
