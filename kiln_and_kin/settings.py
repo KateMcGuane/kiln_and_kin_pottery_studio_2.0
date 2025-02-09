@@ -25,10 +25,13 @@ SECRET_KEY = 'django-insecure-%sj)tp!-)p8r^sr-4#ls5nnnsd#ia3hsq!#_d5!=qbhew#7_p+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-katemcguane-kilnandkinp-65s34fkcg6l.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = [
+    # '8000-katemcguane-kilnandkinp-65s34fkcg6l.ws.codeinstitute-ide.net',
+    '127.0.0.1', 'localhost'
+]
 
 
-# Application definition
+# Application definitions
 
 INSTALLED_APPS = [
     'django.contrib.admin',
