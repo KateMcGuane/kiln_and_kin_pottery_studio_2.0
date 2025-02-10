@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django.contrib.sites',  # for callback urls social media; as seen in walkthrough
+    # for callback urls social media; as seen in walkthrough
+    'django.contrib.sites',
     'allauth',
     'allauth.account',
     # Optional -- requires install using `django-allauth[socialaccount]`.
@@ -67,7 +68,8 @@ TEMPLATES = [
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.debug',
-                'django.template.context_processors.request',  # required by allauth; access to http request object
+                # required by allauth; access to http request object
+                'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
             ],
@@ -93,7 +95,7 @@ ACCOUNT_EMAIL_VERIFICATION = 'mandatory'
 ACCOUNT_SIGNUP_EMAIL_ENTER_TWICE = True
 ACCOUNT_USERNAME_MIN_LENGTH = 4
 LOGIN_URL = '/accounts/login/'
-LOGIN_REDIRECT_URL = '/success'  # temporary url
+LOGIN_REDIRECT_URL = '/'
 
 WSGI_APPLICATION = 'kiln_and_kin.wsgi.application'
 
