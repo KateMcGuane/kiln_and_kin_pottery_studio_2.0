@@ -65,7 +65,7 @@ body {
   }
 }
 
-/* fixed top navbar only on medium and up */
+/* fixed top navbar only on medium and larger */
 @media (min-width: 992px) {
     .fixed-top-desktop-only {
         position: fixed;
