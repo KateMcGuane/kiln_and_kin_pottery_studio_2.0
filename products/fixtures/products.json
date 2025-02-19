@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "name": "Stoneware Mug",
+    "description": "A meticulously handcrafted ceramic mug featuring a smooth satin glaze. Designed with our signature large, ergonomic handle, it's ideal for comfortably enjoying your favorite hot drinks.",
+    "price": 33.00,
+    "category": "Mugs",
+    "stock": 20,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Stoneware",
+    "dimensions": {
+      "height": "8.5 cm",
+      "opening_diameter": "8 cm",
+      "diameter_at_widest_point": null,
+      "base_diameter": "5.5 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Blue Grey",
+    "weight": "350 g",
+    "capacity": "300 ml"
+  },
+  {
+    "id": 2,
+    "name": "Stoneware Mug",
+    "description": "A meticulously handcrafted ceramic mug featuring a smooth satin glaze. Designed with our signature large, ergonomic handle, it's ideal for comfortably enjoying your favorite hot drinks.",
+    "price": 33.00,
+    "category": "Mugs",
+    "stock": 20,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Stoneware",
+    "dimensions": {
+      "height": "8.5 cm",
+      "opening_diameter": "8 cm",
+      "diameter_at_widest_point": null,
+      "base_diameter": "5.5 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Yellow Sand",
+    "weight": "350 g",
+    "capacity": "300 ml"
+  },
+  {
+    "id": 3,
+    "name": "Porcelain Sage Plates",
+    "description": "These elegant porcelain plates are crafted to add a touch of luxury to your daily routines. Perfect for use as a spoon rest or as a stylish base for burning sage or smudge sticks.",
+    "price": 35.00,
+    "category": "Plates",
+    "stock": 7,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Porcelain",
+    "dimensions": {
+      "height": "1.5 cm",
+      "opening_diameter": "14 cm",
+      "diameter_at_widest_point": null,
+      "base_diameter": "8 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Green",
+    "weight": "200 g",
+    "capacity": null
+  },
+  {
+    "id": 4,
+    "name": "Porcelain Sage Plates",
+    "description": "These elegant porcelain plates are crafted to add a touch of luxury to your daily routines. Perfect for use as a spoon rest or as a stylish base for burning sage or smudge sticks.",
+    "price": 35.00,
+    "category": "Plates",
+    "stock": 2,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Porcelain",
+    "dimensions": {
+      "height": "1.5 cm",
+      "opening_diameter": "14 cm",
+      "diameter_at_widest_point": null,
+      "base_diameter": "8 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Purple",
+    "weight": "200 g",
+    "capacity": null
+  },
+  {
+    "id": 5,
+    "name": "Porcelain Sage Plates",
+    "description": "These elegant porcelain plates are crafted to add a touch of luxury to your daily routines. Perfect for use as a spoon rest or as a stylish base for burning sage or smudge sticks.",
+    "price": 35.00,
+    "category": "Plates",
+    "stock": 7,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Porcelain",
+    "dimensions": {
+      "height": "1.5 cm",
+      "opening_diameter": "14 cm",
+      "diameter_at_widest_point": null,
+      "base_diameter": "8 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Pink",
+    "weight": "200 g",
+    "capacity": null
+  },
+  {
+    "id": 6,
+    "name": "Vase #241",
+    "description": "A small bellied vase with a subtle yellow glaze, crafted from stoneware and finished with a smooth satin glaze. Ideal for showcasing fresh flowers or as a decorative accent piece.",
+    "price": 30.00,
+    "category": "Vases",
+    "stock": 1,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Stoneware",
+    "dimensions": {
+      "height": "7 cm",
+      "opening_diameter": "2 cm",
+      "diameter_at_widest_point": "6 cm",
+      "base_diameter": "3 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Yellow Sand",
+    "weight": "130 g",
+    "capacity": "100 ml"
+  },
+  {
+    "id": 7,
+    "name": "Vase #242",
+    "description": "A fluted pyramid-shaped vase featuring a crystallized blue-grey glaze. The design includes a subtle, muted opening and an indented pattern that runs across the entire body.",
+    "price": 30.00,
+    "category": "Vases",
+    "stock": 1,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Stoneware",
+    "dimensions": {
+      "height": "8.5 cm",
+      "opening_diameter": "1.5 cm",
+      "diameter_at_widest_point": "4.5 cm",
+      "base_diameter": "6 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Seafoam",
+    "weight": "50 g",
+    "capacity": "105 ml"
+  },
+  {
+    "id": 8,
+    "name": "Vase #243",
+    "description": "A rounded flute vase with a slender neck, finished in a subtle yellow glaze and a softly muted opening.",
+    "price": 35.00,
+    "category": "Vases",
+    "stock": 1,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Stoneware",
+    "dimensions": {
+      "height": "10.5 cm",
+      "opening_diameter": "2 cm",
+      "diameter_at_widest_point": "6 cm",
+      "base_diameter": "5 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Yellow Sand",
+    "weight": "155 g",
+    "capacity": "80 ml"
+  },
+  {
+    "id": 9,
+    "name": "Vase #244",
+    "description": "A blue-grey, tear-shaped vase with a gently tapered neck and a medium-sized opening.",
+    "price": 45.00,
+    "category": "Vases",
+    "stock": 1,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Stoneware",
+    "dimensions": {
+      "height": "10 cm",
+      "opening_diameter": "4 cm",
+      "diameter_at_widest_point": "7 cm",
+      "base_diameter": "4.5 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Blue Grey",
+    "weight": "170 g",
+    "capacity": "180 ml"
+  },
+  {
+    "id": 10,
+    "name": "Vase #245",
+    "description": "A flask-shaped vase with a deep blue glaze, featuring crystallization in certain areas. It has a rounded belly and base, complemented by a slender neck and an opening that matches the neck's size.",
+    "price": 40.00,
+    "category": "Vases",
+    "stock": 1,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Stoneware",
+    "dimensions": {
+      "height": "10.5 cm",
+      "opening_diameter": "2 cm",
+      "diameter_at_widest_point": "6 cm",
+      "base_diameter": "4 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Lapis",
+    "weight": "130 g",
+    "capacity": "90 ml"
+  },
+  {
+    "id": 11,
+    "name": "Vase #246",
+    "description": "A tear-shaped vase with a yellow glaze, featuring subtle speckles reminiscent of sand. It has a round belly, a tapered short neck, and a flared opening.",
+    "price": 50.00,
+    "category": "Vases",
+    "stock": 1,
+    "images": ["sample1.jpg", "sample2.jpg"],
+    "material": "Stoneware",
+    "dimensions": {
+      "height": "12 cm",
+      "opening_diameter": "4.5 cm",
+      "diameter_at_widest_point": "9 cm",
+      "base_diameter": "5 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Yellow Sand",
+    "weight": "210 g",
+    "capacity": "220 ml"
+  }
+  {
+    "id": 12,
+    "name": "Vase #247",
+    "description": "A blue-grey vase with a subtly tapered body that gradually widens towards the base.",
+    "price": 50.00,
+    "category": "Vases",
+    "stock": 1,
+    "images": [
+      "sample1.jpg",
+      "sample2.jpg"
+    ],
+    "material": "Stoneware",
+    "dimensions": {
+      "height": "12.5 cm",
+      "opening_diameter": "4.5 cm",
+      "diameter_at_widest_point": "7.5 cm",
+      "base_diameter": "5 cm"
+    },
+    "glaze_type": "Classic Satin Glaze",
+    "handmade": true,
+    "color": "Blue Grey",
+    "weight": "310 g",
+    "capacity": "320 ml"
+  }
+]
