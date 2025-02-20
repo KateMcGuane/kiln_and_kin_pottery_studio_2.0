@@ -2,265 +2,359 @@
   {
     "pk": 1,
     "model": "products.product",
-    "name": "Stoneware Mug",
-    "description": "A meticulously handcrafted ceramic mug featuring a smooth satin glaze. Designed with our signature large, ergonomic handle, it's ideal for comfortably enjoying your favorite hot drinks.",
-    "price": 33.00,
-    "category": "Mugs",
-    "stock": 20,
-    "image": ["../media/products/001-blue-mug-01.jpg", "../media/products/001-blue-mug-02.jpg", "../media/products/001-blue-mug-03.jpg", "../media/products/001-blue-mug-04.jpg", "../media/products/001-blue-mug-05.jpg"],
-    "material": "Stoneware",
-    "dimensions": {
-      "height": "8.5 cm",
-      "opening_diameter": "8 cm",
-      "diameter_at_widest_point": null,
-      "base_diameter": "5.5 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Blue Grey",
-    "weight": "350 g",
-    "capacity": "300 ml"
+    "fields": {
+      "sku": "001-STW-MUG-MED-BLG",
+      "name": "Stoneware Mug",
+      "description": "A meticulously handcrafted ceramic mug featuring a smooth satin glaze. Designed with our signature large, ergonomic handle, it's ideal for comfortably enjoying your favorite hot drinks.",
+      "price": 33.00,
+      "category": "Mugs",
+      "stock": 20,
+      "image": [
+        "../media/products/001-blue-mug-01.jpg",
+        "../media/products/001-blue-mug-02.jpg",
+        "../media/products/001-blue-mug-03.jpg",
+        "../media/products/001-blue-mug-04.jpg",
+        "../media/products/001-blue-mug-05.jpg"
+      ],
+      "material": "Stoneware",
+      "dimensions": {
+        "height": "8.5 cm",
+        "opening_diameter": "8 cm",
+        "diameter_at_widest_point": null,
+        "base_diameter": "5.5 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Blue Grey",
+      "weight": "350 g",
+      "capacity": "300 ml"
+    }
   },
   {
     "pk": 2,
     "model": "products.product",
-    "name": "Stoneware Mug",
-    "description": "A meticulously handcrafted ceramic mug featuring a smooth satin glaze. Designed with our signature large, ergonomic handle, it's ideal for comfortably enjoying your favorite hot drinks.",
-    "price": 33.00,
-    "category": "Mugs",
-    "stock": 20,
-    "image": ["../media/products/002-yellow-mug-01.jpg", "../media/products/002-yellow-mug-02.jpg", "../media/products/002-yellow-mug-03.jpg", "../media/products/002-yellow-mug-04.jpg"],
-    "material": "Stoneware",
-    "dimensions": {
-      "height": "8.5 cm",
-      "opening_diameter": "8 cm",
-      "diameter_at_widest_point": null,
-      "base_diameter": "5.5 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Yellow Sand",
-    "weight": "350 g",
-    "capacity": "300 ml"
-  },
+    "fields": {
+      "sku": "002-STW-MUG-MED-YLS",
+      "name": "Stoneware Mug",
+      "description": "A meticulously handcrafted ceramic mug featuring a smooth satin glaze. Designed with our signature large, ergonomic handle, it's ideal for comfortably enjoying your favorite hot drinks.",
+      "price": 33.00,
+      "category": "Mugs",
+      "stock": 20,
+      "image": [
+        "../media/products/002-yellow-mug-01.jpg",
+        "../media/products/002-yellow-mug-02.jpg",
+        "../media/products/002-yellow-mug-03.jpg",
+        "../media/products/002-yellow-mug-04.jpg"
+      ],
+      "material": "Stoneware",
+      "dimensions": {
+        "height": "8.5 cm",
+        "opening_diameter": "8 cm",
+        "diameter_at_widest_point": null,
+        "base_diameter": "5.5 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Yellow Sand",
+      "weight": "350 g",
+      "capacity": "300 ml"
+    }
+  }
   {
     "pk": 3,
     "model": "products.product",
-    "name": "Porcelain Sage Plates",
-    "description": "These elegant porcelain plates are crafted to add a touch of luxury to your daily routines. Perfect for use as a spoon rest or as a stylish base for burning sage or smudge sticks.",
-    "price": 35.00,
-    "category": "Plates",
-    "stock": 7,
-    "image": ["../media/products/003-green-sage-plate-01.png", "../media/products/003-green-sage-plate-02.png", "../media/products/003-green-sage-plate-03.png", "../media/products/003-green-sage-plate-04.png", "../media/products/003-green-sage-plate-05.png", "../media/products/003-green-sage-plate-06.png", "../media/products/003-to-005-sage-plate.png"],
-    "material": "Porcelain",
-    "dimensions": {
-      "height": "1.5 cm",
-      "opening_diameter": "14 cm",
-      "diameter_at_widest_point": null,
-      "base_diameter": "8 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Green",
-    "weight": "200 g",
-    "capacity": null
+    "fields": {
+      "sku": "003-POR-PLA-SGE-GRN",
+      "name": "Porcelain Sage Plate",
+      "description": "These elegant porcelain plates are crafted to add a touch of luxury to your daily routines. Perfect for use as a spoon rest or as a stylish base for burning sage or smudge sticks.",
+      "price": 35.00,
+      "category": "Plates",
+      "stock": 7,
+      "image": [
+        "../media/products/003-green-sage-plate-01.png",
+        "../media/products/003-green-sage-plate-02.png",
+        "../media/products/003-green-sage-plate-03.png",
+        "../media/products/003-green-sage-plate-04.png",
+        "../media/products/003-green-sage-plate-05.png",
+        "../media/products/003-green-sage-plate-06.png",
+        "../media/products/003-to-005-sage-plate.png"
+      ],
+      "material": "Porcelain",
+      "dimensions": {
+        "height": "1.5 cm",
+        "opening_diameter": "14 cm",
+        "diameter_at_widest_point": null,
+        "base_diameter": "8 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Green",
+      "weight": "200 g",
+      "capacity": null
+    }
   },
   {
     "pk": 4,
     "model": "products.product",
-    "name": "Porcelain Sage Plates",
-    "description": "These elegant porcelain plates are crafted to add a touch of luxury to your daily routines. Perfect for use as a spoon rest or as a stylish base for burning sage or smudge sticks.",
-    "price": 35.00,
-    "category": "Plates",
-    "stock": 2,
-    "image": ["../media/products/004-purple-sage-plate-01.png", "../media/products/004-purple-sage-plate-02.png", "../media/products/004-purple-sage-plate-03.png", "../media/products/004-purple-sage-plate-04.png", "../media/products/004-purple-sage-plate-05.png", "../media/products/003-to-005-sage-plate.png"],
-    "material": "Porcelain",
-    "dimensions": {
-      "height": "1.5 cm",
-      "opening_diameter": "14 cm",
-      "diameter_at_widest_point": null,
-      "base_diameter": "8 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Purple",
-    "weight": "200 g",
-    "capacity": null
+    "fields": {
+      "sku": "004-POR-PLA-SGE-PUR",
+      "name": "Porcelain Sage Plate",
+      "description": "These elegant porcelain plates are crafted to add a touch of luxury to your daily routines. Perfect for use as a spoon rest or as a stylish base for burning sage or smudge sticks.",
+      "price": 35.00,
+      "category": "Plates",
+      "stock": 2,
+      "image": [
+        "../media/products/004-purple-sage-plate-01.png",
+        "../media/products/004-purple-sage-plate-02.png",
+        "../media/products/004-purple-sage-plate-03.png",
+        "../media/products/004-purple-sage-plate-04.png",
+        "../media/products/004-purple-sage-plate-05.png",
+        "../media/products/003-to-005-sage-plate.png"
+      ],
+      "material": "Porcelain",
+      "dimensions": {
+        "height": "1.5 cm",
+        "opening_diameter": "14 cm",
+        "diameter_at_widest_point": null,
+        "base_diameter": "8 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Purple",
+      "weight": "200 g",
+      "capacity": null
+    }
   },
   {
     "pk": 5,
     "model": "products.product",
-    "name": "Porcelain Sage Plates",
-    "description": "These elegant porcelain plates are crafted to add a touch of luxury to your daily routines. Perfect for use as a spoon rest or as a stylish base for burning sage or smudge sticks.",
-    "price": 35.00,
-    "category": "Plates",
-    "stock": 7,
-    "image": ["../media/products/005-pink-sage-plate-01.png", "../media/products/005-pink-sage-plate-02.png", "../media/products/005-pink-sage-plate-03.png", "../media/products/005-pink-sage-plate-04.png", "../media/products/005-pink-sage-plate-05.png", "../media/products/005-pink-sage-plate-06.png", "../media/products/003-to-005-sage-plate.png"],
-    "material": "Porcelain",
-    "dimensions": {
-      "height": "1.5 cm",
-      "opening_diameter": "14 cm",
-      "diameter_at_widest_point": null,
-      "base_diameter": "8 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Pink",
-    "weight": "200 g",
-    "capacity": null
+    "fields": {
+      "sku": "005-POR-PLA-SGE-PNK",
+      "name": "Porcelain Sage Plate",
+      "description": "These elegant porcelain plates are crafted to add a touch of luxury to your daily routines. Perfect for use as a spoon rest or as a stylish base for burning sage or smudge sticks.",
+      "price": 35.00,
+      "category": "Plates",
+      "stock": 7,
+      "image": [
+        "../media/products/005-pink-sage-plate-01.png",
+        "../media/products/005-pink-sage-plate-02.png",
+        "../media/products/005-pink-sage-plate-03.png",
+        "../media/products/005-pink-sage-plate-04.png",
+        "../media/products/005-pink-sage-plate-05.png",
+        "../media/products/005-pink-sage-plate-06.png",
+        "../media/products/003-to-005-sage-plate.png"
+      ],
+      "material": "Porcelain",
+      "dimensions": {
+        "height": "1.5 cm",
+        "opening_diameter": "14 cm",
+        "diameter_at_widest_point": null,
+        "base_diameter": "8 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Pink",
+      "weight": "200 g",
+      "capacity": null
+    }
   },
   {
     "pk": 6,
     "model": "products.product",
-    "name": "Vase #241",
-    "description": "A small bellied vase with a subtle yellow glaze, crafted from stoneware and finished with a smooth satin glaze. Ideal for showcasing fresh flowers or as a decorative accent piece.",
-    "price": 30.00,
-    "category": "Vases",
-    "stock": 1,
-    "image": ["../media/products/006-vase-241-01.png", "../media/products/006-vase-241-02.png", "../media/products/006-vase-241-03.png", "../media/products/006-vase-241-04.png"],
-    "material": "Stoneware",
-    "dimensions": {
-      "height": "7 cm",
-      "opening_diameter": "2 cm",
-      "diameter_at_widest_point": "6 cm",
-      "base_diameter": "3 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Yellow Sand",
-    "weight": "130 g",
-    "capacity": "100 ml"
+    "fields": {
+      "sku": "006-STW-VAS-241-YLS",
+      "name": "Vase #241",
+      "description": "A small bellied vase with a subtle yellow glaze, crafted from stoneware and finished with a smooth satin glaze. Ideal for showcasing fresh flowers or as a decorative accent piece.",
+      "price": 30.00,
+      "category": "Vases",
+      "stock": 1,
+      "image": [
+        "../media/products/006-vase-241-01.png",
+        "../media/products/006-vase-241-02.png",
+        "../media/products/006-vase-241-03.png",
+        "../media/products/006-vase-241-04.png"
+      ],
+      "material": "Stoneware",
+      "dimensions": {
+        "height": "7 cm",
+        "opening_diameter": "2 cm",
+        "diameter_at_widest_point": "6 cm",
+        "base_diameter": "3 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Yellow Sand",
+      "weight": "130 g",
+      "capacity": "100 ml"
+    }
   },
   {
     "pk": 7,
     "model": "products.product",
-    "name": "Vase #242",
-    "description": "A fluted pyramid-shaped vase featuring a crystallized blue-grey glaze. The design includes a subtle, muted opening and an indented pattern that runs across the entire body.",
-    "price": 30.00,
-    "category": "Vases",
-    "stock": 1,
-    "image": ["../media/products/007-vase-242-01.png", "../media/products/007-vase-242-02.png", "../media/products/007-vase-242-03.png"],
-    "material": "Stoneware",
-    "dimensions": {
-      "height": "8.5 cm",
-      "opening_diameter": "1.5 cm",
-      "diameter_at_widest_point": "4.5 cm",
-      "base_diameter": "6 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Seafoam",
-    "weight": "50 g",
-    "capacity": "105 ml"
+    "fields": {
+      "sku": "007-STW-VAS-242-SFM",
+      "name": "Vase #242",
+      "description": "A fluted pyramid-shaped vase featuring a crystallized blue-grey glaze. The design includes a subtle, muted opening and an indented pattern that runs across the entire body.",
+      "price": 30.00,
+      "category": "Vases",
+      "stock": 1,
+      "image": [
+        "../media/products/007-vase-242-01.png",
+        "../media/products/007-vase-242-02.png",
+        "../media/products/007-vase-242-03.png"
+      ],
+      "material": "Stoneware",
+      "dimensions": {
+        "height": "8.5 cm",
+        "opening_diameter": "1.5 cm",
+        "diameter_at_widest_point": "4.5 cm",
+        "base_diameter": "6 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Seafoam",
+      "weight": "50 g",
+      "capacity": "105 ml"
+    }
   },
   {
     "pk": 8,
     "model": "products.product",
-    "name": "Vase #243",
-    "description": "A rounded flute vase with a slender neck, finished in a subtle yellow glaze and a softly muted opening.",
-    "price": 35.00,
-    "category": "Vases",
-    "stock": 1,
-    "image": ["../media/products/008-vase-243-01.png", "../media/products/008-vase-243-02.png"],
-    "material": "Stoneware",
-    "dimensions": {
-      "height": "10.5 cm",
-      "opening_diameter": "2 cm",
-      "diameter_at_widest_point": "6 cm",
-      "base_diameter": "5 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Yellow Sand",
-    "weight": "155 g",
-    "capacity": "80 ml"
+    "fields": {
+      "sku": "008-STW-VAS-243-YLS",
+      "name": "Vase #243",
+      "description": "A rounded flute vase with a slender neck, finished in a subtle yellow glaze and a softly muted opening.",
+      "price": 35.00,
+      "category": "Vases",
+      "stock": 1,
+      "image": [
+        "../media/products/008-vase-243-01.png",
+        "../media/products/008-vase-243-02.png"
+      ],
+      "material": "Stoneware",
+      "dimensions": {
+        "height": "10.5 cm",
+        "opening_diameter": "2 cm",
+        "diameter_at_widest_point": "6 cm",
+        "base_diameter": "5 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Yellow Sand",
+      "weight": "155 g",
+      "capacity": "80 ml"
+    }
   },
   {
     "pk": 9,
     "model": "products.product",
-    "name": "Vase #244",
-    "description": "A blue-grey, tear-shaped vase with a gently tapered neck and a medium-sized opening.",
-    "price": 45.00,
-    "category": "Vases",
-    "stock": 1,
-    "image": ["../media/products/009-vase-244-01.png", "../media/products/009-vase-244-02.png"],
-    "material": "Stoneware",
-    "dimensions": {
-      "height": "10 cm",
-      "opening_diameter": "4 cm",
-      "diameter_at_widest_point": "7 cm",
-      "base_diameter": "4.5 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Blue Grey",
-    "weight": "170 g",
-    "capacity": "180 ml"
+    "fields": {
+      "sku": "009-STW-VAS-244-BLG",
+      "name": "Vase #244",
+      "description": "A blue-grey, tear-shaped vase with a gently tapered neck and a medium-sized opening.",
+      "price": 45.00,
+      "category": "Vases",
+      "stock": 1,
+      "image": [
+        "../media/products/009-vase-244-01.png",
+        "../media/products/009-vase-244-02.png"
+      ],
+      "material": "Stoneware",
+      "dimensions": {
+        "height": "10 cm",
+        "opening_diameter": "4 cm",
+        "diameter_at_widest_point": "7 cm",
+        "base_diameter": "4.5 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Blue Grey",
+      "weight": "170 g",
+      "capacity": "180 ml"
+    }
   },
   {
     "pk": 10,
     "model": "products.product",
-    "name": "Vase #245",
-    "description": "A flask-shaped vase with a deep blue glaze, featuring crystallization in certain areas. It has a rounded belly and base, complemented by a slender neck and an opening that matches the neck's size.",
-    "price": 40.00,
-    "category": "Vases",
-    "stock": 1,
-    "image": ["../media/products/010-vase-243-01.png"],
-    "material": "Stoneware",
-    "dimensions": {
-      "height": "10.5 cm",
-      "opening_diameter": "2 cm",
-      "diameter_at_widest_point": "6 cm",
-      "base_diameter": "4 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Lapis",
-    "weight": "130 g",
-    "capacity": "90 ml"
-  },
+    "fields": {
+      "sku": "010-STW-VAS-245-LPS",
+      "name": "Vase #245",
+      "description": "A flask-shaped vase with a deep blue glaze and round body. Perfect as a standalone piece or for holding a small floral arrangement.",
+      "price": 50.00,
+      "category": "Vases",
+      "stock": 1,
+      "image": [
+        "../media/products/010-vase-245-01.png",
+        "../media/products/010-vase-245-02.png"
+      ],
+      "material": "Stoneware",
+      "dimensions": {
+        "height": "9 cm",
+        "opening_diameter": "3 cm",
+        "diameter_at_widest_point": "8 cm",
+        "base_diameter": "5.5 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Lapis",
+      "weight": "160 g",
+      "capacity": "150 ml"
+    }
+  }
   {
     "pk": 11,
     "model": "products.product",
-    "name": "Vase #246",
-    "description": "A tear-shaped vase with a yellow glaze, featuring subtle speckles reminiscent of sand. It has a round belly, a tapered short neck, and a flared opening.",
-    "price": 50.00,
-    "category": "Vases",
-    "stock": 1,
-    "image": ["../media/products/011-vase-246-01.png", "../media/products/011-vase-246-02.png"],
-    "material": "Stoneware",
-    "dimensions": {
-      "height": "12 cm",
-      "opening_diameter": "4.5 cm",
-      "diameter_at_widest_point": "9 cm",
-      "base_diameter": "5 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Yellow Sand",
-    "weight": "210 g",
-    "capacity": "220 ml"
+    "fields": {
+      "sku": "011-STW-VAS-246-YLS",
+      "name": "Vase #246",
+      "description": "A tear-shaped vase with a yellow glaze, featuring subtle speckles reminiscent of sand. It has a round belly, a tapered short neck, and a flared opening.",
+      "price": 50.00,
+      "category": "Vases",
+      "stock": 1,
+      "image": [
+        "../media/products/011-vase-246-01.png",
+        "../media/products/011-vase-246-02.png"
+      ],
+      "material": "Stoneware",
+      "dimensions": {
+        "height": "12 cm",
+        "opening_diameter": "4.5 cm",
+        "diameter_at_widest_point": "9 cm",
+        "base_diameter": "5 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Yellow Sand",
+      "weight": "210 g",
+      "capacity": "220 ml"
+    }
   },
   {
     "pk": 12,
     "model": "products.product",
-    "name": "Vase #247",
-    "description": "A blue-grey vase with a subtly tapered body that gradually widens towards the base.",
-    "price": 50.00,
-    "category": "Vases",
-    "stock": 1,
-    "image": ["../media/products/012-vase-247-01.png", "../media/products/012-vase-247-02.png"],
-    "material": "Stoneware",
-    "dimensions": {
-      "height": "12.5 cm",
-      "opening_diameter": "4.5 cm",
-      "diameter_at_widest_point": "7.5 cm",
-      "base_diameter": "5 cm"
-    },
-    "glaze_type": "Classic Satin Glaze",
-    "handmade": true,
-    "color": "Blue Grey",
-    "weight": "310 g",
-    "capacity": "320 ml"
+    "fields": {
+      "sku": "012-STW-VAS-247-BLG",
+      "name": "Vase #247",
+      "description": "A blue-grey vase with a subtly tapered body that gradually widens towards the base.",
+      "price": 50.00,
+      "category": "Vases",
+      "stock": 1,
+      "image": [
+        "../media/products/012-vase-247-01.png",
+        "../media/products/012-vase-247-02.png"
+      ],
+      "material": "Stoneware",
+      "dimensions": {
+        "height": "12.5 cm",
+        "opening_diameter": "4.5 cm",
+        "diameter_at_widest_point": "7.5 cm",
+        "base_diameter": "5 cm"
+      },
+      "glaze_type": "Classic Satin Glaze",
+      "handmade": true,
+      "color": "Blue Grey",
+      "weight": "310 g",
+      "capacity": "320 ml"
+    }
   }
 ]
