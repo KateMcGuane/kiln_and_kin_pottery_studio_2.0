@@ -9,13 +9,7 @@
       "price": 33.00,
       "category": "Mugs",
       "stock": 20,
-      "image": [
-        "../media/products/001-blue-mug-01.jpg",
-        "../media/products/001-blue-mug-02.jpg",
-        "../media/products/001-blue-mug-03.jpg",
-        "../media/products/001-blue-mug-04.jpg",
-        "../media/products/001-blue-mug-05.jpg"
-      ],
+      "image": ["../media/products/001-blue-mug-03.jpg"],
       "material": "Stoneware",
       "dimensions": {
         "height": "8.5 cm",
@@ -40,12 +34,7 @@
       "price": 33.00,
       "category": "Mugs",
       "stock": 20,
-      "image": [
-        "../media/products/002-yellow-mug-01.jpg",
-        "../media/products/002-yellow-mug-02.jpg",
-        "../media/products/002-yellow-mug-03.jpg",
-        "../media/products/002-yellow-mug-04.jpg"
-      ],
+      "image": ["../media/products/002-yellow-mug-01.jpg"],
       "material": "Stoneware",
       "dimensions": {
         "height": "8.5 cm",
@@ -70,15 +59,7 @@
       "price": 35.00,
       "category": "Plates",
       "stock": 7,
-      "image": [
-        "../media/products/003-green-sage-plate-01.png",
-        "../media/products/003-green-sage-plate-02.png",
-        "../media/products/003-green-sage-plate-03.png",
-        "../media/products/003-green-sage-plate-04.png",
-        "../media/products/003-green-sage-plate-05.png",
-        "../media/products/003-green-sage-plate-06.png",
-        "../media/products/003-to-005-sage-plate.png"
-      ],
+      "image": ["../media/products/003-green-sage-plate-02.png"],
       "material": "Porcelain",
       "dimensions": {
         "height": "1.5 cm",
@@ -103,14 +84,7 @@
       "price": 35.00,
       "category": "Plates",
       "stock": 2,
-      "image": [
-        "../media/products/004-purple-sage-plate-01.png",
-        "../media/products/004-purple-sage-plate-02.png",
-        "../media/products/004-purple-sage-plate-03.png",
-        "../media/products/004-purple-sage-plate-04.png",
-        "../media/products/004-purple-sage-plate-05.png",
-        "../media/products/003-to-005-sage-plate.png"
-      ],
+      "image": ["../media/products/004-purple-sage-plate-02.png"],
       "material": "Porcelain",
       "dimensions": {
         "height": "1.5 cm",
@@ -135,15 +109,7 @@
       "price": 35.00,
       "category": "Plates",
       "stock": 7,
-      "image": [
-        "../media/products/005-pink-sage-plate-01.png",
-        "../media/products/005-pink-sage-plate-02.png",
-        "../media/products/005-pink-sage-plate-03.png",
-        "../media/products/005-pink-sage-plate-04.png",
-        "../media/products/005-pink-sage-plate-05.png",
-        "../media/products/005-pink-sage-plate-06.png",
-        "../media/products/003-to-005-sage-plate.png"
-      ],
+      "image": ["../media/products/005-pink-sage-plate-04.png"],
       "material": "Porcelain",
       "dimensions": {
         "height": "1.5 cm",
@@ -168,12 +134,7 @@
       "price": 30.00,
       "category": "Vases",
       "stock": 1,
-      "image": [
-        "../media/products/006-vase-241-01.png",
-        "../media/products/006-vase-241-02.png",
-        "../media/products/006-vase-241-03.png",
-        "../media/products/006-vase-241-04.png"
-      ],
+      "image": ["../media/products/006-vase-241-01.png",],
       "material": "Stoneware",
       "dimensions": {
         "height": "7 cm",
@@ -198,11 +159,7 @@
       "price": 30.00,
       "category": "Vases",
       "stock": 1,
-      "image": [
-        "../media/products/007-vase-242-01.png",
-        "../media/products/007-vase-242-02.png",
-        "../media/products/007-vase-242-03.png"
-      ],
+      "image": ["../media/products/007-vase-242-03.png"],
       "material": "Stoneware",
       "dimensions": {
         "height": "8.5 cm",
@@ -227,10 +184,7 @@
       "price": 35.00,
       "category": "Vases",
       "stock": 1,
-      "image": [
-        "../media/products/008-vase-243-01.png",
-        "../media/products/008-vase-243-02.png"
-      ],
+      "image": ["../media/products/008-vase-243-01.png"],
       "material": "Stoneware",
       "dimensions": {
         "height": "10.5 cm",
@@ -255,10 +209,7 @@
       "price": 45.00,
       "category": "Vases",
       "stock": 1,
-      "image": [
-        "../media/products/009-vase-244-01.png",
-        "../media/products/009-vase-244-02.png"
-      ],
+      "image": ["../media/products/009-vase-244-01.png"],
       "material": "Stoneware",
       "dimensions": {
         "height": "10 cm",
@@ -283,10 +234,7 @@
       "price": 50.00,
       "category": "Vases",
       "stock": 1,
-      "image": [
-        "../media/products/010-vase-245-01.png",
-        "../media/products/010-vase-245-02.png"
-      ],
+      "image": ["../media/products/010-vase-245-01.png"],
       "material": "Stoneware",
       "dimensions": {
         "height": "9 cm",
@@ -311,10 +259,7 @@
       "price": 50.00,
       "category": "Vases",
       "stock": 1,
-      "image": [
-        "../media/products/011-vase-246-01.png",
-        "../media/products/011-vase-246-02.png"
-      ],
+      "image": ["../media/products/011-vase-246-01.png"],
       "material": "Stoneware",
       "dimensions": {
         "height": "12 cm",
@@ -339,10 +284,7 @@
       "price": 50.00,
       "category": "Vases",
       "stock": 1,
-      "image": [
-        "../media/products/012-vase-247-01.png",
-        "../media/products/012-vase-247-02.png"
-      ],
+      "image": ["../media/products/012-vase-247-01.png"],
       "material": "Stoneware",
       "dimensions": {
         "height": "12.5 cm",
