@@ -20,21 +20,17 @@ class Product(models.Model):
     description = models.TextField()
     price = models.DecimalField(max_digits=6, decimal_places=2)
     stock = models.IntegerField(default=0)
-    
     material = models.CharField(max_length=100, null=True, blank=True)
     glaze_type = models.CharField(max_length=100, null=True, blank=True)
     colour = models.CharField(max_length=50, null=True, blank=True)
-    
     # Dimensions added directly, revise for scaleability
+    # Stored as string to include units, revise for scaleability
     height = models.CharField(max_length=20, null=True, blank=True)  # Stored as string to include units
     opening_diameter = models.CharField(max_length=20, null=True, blank=True)
     diameter_at_widest_point = models.CharField(max_length=20, null=True, blank=True)
     base_diameter = models.CharField(max_length=20, null=True, blank=True)
-
-    # Stored as string to include units
     weight = models.CharField(max_length=20, null=True, blank=True)
     capacity = models.CharField(max_length=20, null=True, blank=True)
-    
     # Image added directly, revise for multiple images & scaleability
     image = models.ImageField(null=True, blank=True)
 

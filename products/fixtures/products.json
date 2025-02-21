@@ -12,12 +12,10 @@
       "material": "Stoneware",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Blue Grey",
-      "dimensions": {
-        "height": "8.5 cm",
-        "opening_diameter": "8 cm",
-        "diameter_at_widest_point": null,
-        "base_diameter": "5.5 cm"
-      },
+      "height": "8.5 cm",
+      "opening_diameter": "8 cm",
+      "diameter_at_widest_point": null,
+      "base_diameter": "5.5 cm",
       "weight": "350 g",
       "capacity": "300 ml",
       "image": "../media/products/001-blue-mug-03.jpg"
@@ -36,12 +34,10 @@
       "material": "Stoneware",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Yellow Sand",
-      "dimensions": {
-        "height": "8.5 cm",
-        "opening_diameter": "8 cm",
-        "diameter_at_widest_point": null,
-        "base_diameter": "5.5 cm"
-      },
+      "height": "8.5 cm",
+      "opening_diameter": "8 cm",
+      "diameter_at_widest_point": null,
+      "base_diameter": "5.5 cm",
       "weight": "350 g",
       "capacity": "300 ml",
       "image": "../media/products/002-yellow-mug-01.jpg"
@@ -60,12 +56,10 @@
       "material": "Porcelain",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Green",
-      "dimensions": {
-        "height": "1.5 cm",
-        "opening_diameter": "14 cm",
-        "diameter_at_widest_point": null,
-        "base_diameter": "8 cm"
-      },
+      "height": "1.5 cm",
+      "opening_diameter": "14 cm",
+      "diameter_at_widest_point": null,
+      "base_diameter": "8 cm",
       "weight": "200 g",
       "capacity": null,
       "image": "../media/products/003-green-sage-plate-02.jpg"
@@ -84,12 +78,10 @@
       "material": "Porcelain",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Purple",
-      "dimensions": {
-        "height": "1.5 cm",
-        "opening_diameter": "14 cm",
-        "diameter_at_widest_point": null,
-        "base_diameter": "8 cm"
-      },
+      "height": "1.5 cm",
+      "opening_diameter": "14 cm",
+      "diameter_at_widest_point": null,
+      "base_diameter": "8 cm",
       "weight": "200 g",
       "capacity": null,
       "image": "../media/products/004-purple-sage-plate-02.jpg"
@@ -108,12 +100,10 @@
       "material": "Porcelain",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Pink",
-      "dimensions": {
-        "height": "1.5 cm",
-        "opening_diameter": "14 cm",
-        "diameter_at_widest_point": null,
-        "base_diameter": "8 cm"
-      },
+      "height": "1.5 cm",
+      "opening_diameter": "14 cm",
+      "diameter_at_widest_point": null,
+      "base_diameter": "8 cm",
       "weight": "200 g",
       "capacity": null,
       "image": "../media/products/005-pink-sage-plate-04.jpg"
@@ -132,12 +122,10 @@
       "material": "Stoneware",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Yellow Sand",
-      "dimensions": {
-        "height": "7 cm",
-        "opening_diameter": "2 cm",
-        "diameter_at_widest_point": "6 cm",
-        "base_diameter": "3 cm"
-      },
+      "height": "7 cm",
+      "opening_diameter": "2 cm",
+      "diameter_at_widest_point": "6 cm",
+      "base_diameter": "3 cm",
       "weight": "130 g",
       "capacity": "100 ml",
       "image": "../media/products/006-vase-241-01.jpg"
@@ -156,12 +144,10 @@
       "material": "Stoneware",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Seafoam",
-      "dimensions": {
-        "height": "8.5 cm",
-        "opening_diameter": "1.5 cm",
-        "diameter_at_widest_point": "4.5 cm",
-        "base_diameter": "6 cm"
-      },
+      "height": "8.5 cm",
+      "opening_diameter": "1.5 cm",
+      "diameter_at_widest_point": "4.5 cm",
+      "base_diameter": "6 cm",
       "weight": "50 g",
       "capacity": "105 ml",
       "image": "../media/products/007-vase-242-03.jpg"
@@ -180,12 +166,10 @@
       "material": "Stoneware",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Yellow Sand",
-      "dimensions": {
-        "height": "10.5 cm",
-        "opening_diameter": "2 cm",
-        "diameter_at_widest_point": "6 cm",
-        "base_diameter": "5 cm"
-      },
+      "height": "10.5 cm",
+      "opening_diameter": "2 cm",
+      "diameter_at_widest_point": "6 cm",
+      "base_diameter": "5 cm",
       "weight": "155 g",
       "capacity": "80 ml",
       "image": "../media/products/008-vase-243-01.jpg"
@@ -204,12 +188,10 @@
       "material": "Stoneware",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Blue Grey",
-      "dimensions": {
-        "height": "10 cm",
-        "opening_diameter": "4 cm",
-        "diameter_at_widest_point": "7 cm",
-        "base_diameter": "4.5 cm"
-      },
+      "height": "10 cm",
+      "opening_diameter": "4 cm",
+      "diameter_at_widest_point": "7 cm",
+      "base_diameter": "4.5 cm",
       "weight": "170 g",
       "capacity": "180 ml",
       "image": "../media/products/009-vase-244-01.jpg"
@@ -228,12 +210,10 @@
       "material": "Stoneware",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Lapis",
-      "dimensions": {
-        "height": "9 cm",
-        "opening_diameter": "3 cm",
-        "diameter_at_widest_point": "8 cm",
-        "base_diameter": "5.5 cm"
-      },
+      "height": "9 cm",
+      "opening_diameter": "3 cm",
+      "diameter_at_widest_point": "8 cm",
+      "base_diameter": "5.5 cm",
       "weight": "160 g",
       "capacity": "150 ml",
       "image": "../media/products/010-vase-245-01.jpg"
@@ -252,12 +232,10 @@
       "material": "Stoneware",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Yellow Sand",
-      "dimensions": {
-        "height": "12 cm",
-        "opening_diameter": "4.5 cm",
-        "diameter_at_widest_point": "9 cm",
-        "base_diameter": "5 cm"
-      },
+      "height": "12 cm",
+      "opening_diameter": "4.5 cm",
+      "diameter_at_widest_point": "9 cm",
+      "base_diameter": "5 cm",
       "weight": "210 g",
       "capacity": "220 ml",
       "image": "../media/products/011-vase-246-01.jpg"
@@ -276,12 +254,10 @@
       "material": "Stoneware",
       "glaze_type": "Classic Satin Glaze",
       "colour": "Blue Grey",
-      "dimensions": {
-        "height": "12.5 cm",
-        "opening_diameter": "4.5 cm",
-        "diameter_at_widest_point": "7.5 cm",
-        "base_diameter": "5 cm"
-      },
+      "height": "12.5 cm",
+      "opening_diameter": "4.5 cm",
+      "diameter_at_widest_point": "7.5 cm",
+      "base_diameter": "5 cm",
       "weight": "310 g",
       "capacity": "320 ml",
       "image": "../media/products/012-vase-247-01.jpg"
