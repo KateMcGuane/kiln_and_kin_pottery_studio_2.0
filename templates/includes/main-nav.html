@@ -1,5 +1,7 @@
 <div class="collapse navbar-collapse" id="main-nav">
     <ul class="navbar-nav w-auto mx-auto">
+        
+        <!-- Home Navigation -->
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="home-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Home
@@ -12,18 +14,20 @@
             </div> --> 
         </li>
 
+        <!-- Shop Navigation -->
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="shop-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Shop
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="shop-link">
-                <a href="" class="dropdown-item">Mugs</a>
-                <a href="" class="dropdown-item">Plates</a>
-                <a href="" class="dropdown-item">Vases</a>
+                <a href="{% url 'shop' %}?category=mugs" class="dropdown-item">Mugs</a>
+                <a href="{% url 'shop' %}?category=plates" class="dropdown-item">Plates</a>
+                <a href="{% url 'shop' %}?category=vases" class="dropdown-item">Vases</a>
                 <a href="{% url 'shop' %}" class="dropdown-item">All Ceramics</a>
             </div>
         </li>
 
+        <!-- Classes & Workshops Navigation -->
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="classes-workshops-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Classes &amp; Workshops
@@ -35,16 +39,11 @@
             </div>
         </li>
 
+        <!-- Gift Voucher -->
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black" href="#" id="vouchers-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Gift Vouchers
             </a>
-            <!-- <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">Classes</a>
-                <a href="" class="dropdown-item">Shipping &amp; Returns</a>
-                <a href="" class="dropdown-item"></a>
-                <a href="" class="dropdown-item">All Specials</a>
-            </div> -->
         </li>
     </ul>
 </div>
