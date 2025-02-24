@@ -4,7 +4,7 @@ from django.db.models import Q
 from .models import Product
 
 
-# Create your views here
+# Create your views here.
 
 def all_products(request):
     """
@@ -31,6 +31,7 @@ def all_products(request):
 
     context = {
         'products': products,
+        'search_term': query,
     }
 
     return render(request, 'products/products.html', context)
