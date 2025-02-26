@@ -10,7 +10,7 @@ from .models import Product, Category
 def all_products(request):
     """
     A view to show all products in shop, including sorting and search queries.
-    
+
     This view handles the following:
     - Sorting by different fields (name, price, category)
     - Filtering by category
