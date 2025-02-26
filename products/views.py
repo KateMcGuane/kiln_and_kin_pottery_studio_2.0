@@ -23,7 +23,6 @@ def all_products(request):
     sort_order = None
     direction = None
 
-
     if request.GET:
         if 'sort' in request.GET:
             sortkey = request.GET['sort']
@@ -48,10 +47,12 @@ def all_products(request):
         if 'q' in request.GET:
             query = request.GET['q']
             if not query:
-                messages.error(request, "You didn't enter any search criteria!")
+                messages.error(
+                    request, "You didn't enter any search criteria!")
                 return redirect(reverse('products'))
 
-            queries = Q(name__icontains=query) | Q(description__icontains=query)
+            queries = Q(name__icontains=query) | Q(
+                description__icontains=query)
             products = products.filter(queries)
 
     current_sorting = f'{sort_order}_{direction}'
