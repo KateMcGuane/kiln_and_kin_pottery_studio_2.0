@@ -61,7 +61,7 @@
                                                             </span>
                                                         </button>
                                                     </div>
-                                                    <input class="form-control form-control-sm qty_input id_qty_{{ Sitem.item_id }}" type="number"
+                                                    <input class="form-control form-control-sm qty_input id_qty_{{ item.item_id }}" type="number"
                                                         name="quantity" value="{{ item.quantity }}" min="1" max="99"
                                                         data-item_id="{{ item.item_id }}">
                                                     <div class="input-group-append">
@@ -132,22 +132,23 @@
 {% include 'products/includes/quantity_input_script.html' %}
 
 <script type="text/javascript">
-    // Update quantitiy on click
+    // Update quantity on click
     $('.update-link').click(function (e) {
         var form = $(this).prev('.update-form');
         form.submit();
     })
-    // Remove item on click
+
+    // Remove item & reload on click
     $('.remove-item').click(function (e) {
         var csrfToken = "{{ csrf_token }}";
         var item_id = $(this).attr('id').split('remove_')[1];
         var url = `/bag/remove/${item_id}/`;
         var data = {'csrfmiddlewaretoken': csrfToken};
-        
+
         $.post(url, data)
-            .done(function () {
-                location.reload();
-            });
+        .done(function () {
+            location.reload();
+        });
     })
 </script>
 {% endblock %}
