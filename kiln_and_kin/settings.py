@@ -115,7 +115,7 @@ WSGI_APPLICATION = 'kiln_and_kin.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': BASE_DIR / 'v2_db.sqlite3',
     }
 }
 
