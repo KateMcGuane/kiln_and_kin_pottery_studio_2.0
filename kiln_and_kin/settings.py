@@ -35,7 +35,7 @@ ALLOWED_HOSTS = [
 ]
 
 
-# Application definitions
+# Application definition
 
 INSTALLED_APPS = [
     'django.contrib.admin',
