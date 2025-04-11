@@ -39,6 +39,8 @@
   - grow and engage the audience.
   - convert site visits to sales.
   - easily manage customer orders and fulfill them with ease.
+  - make adjustments to website products/services as needed.
+  - communicate all essential information to our customers through the website.
 
 ---
 
@@ -155,12 +157,17 @@ The website is designed with three separate pages. This is to ensure ease of use
 
   - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The foundation of the site.
   - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - To add the styles and layout of the site.
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - To create interactivity.
+  - [Python](https://www.python.org/) - To program the backend aspect of the project.
+  - [Django](https://www.djangoproject.com/) - Python framework used to develop the site.
 
 
   ### Libraries & Programs Used
 
   #### Libraries
   - [Django Documentation](https://docs.allauth.org/en/latest/installation/quickstart.html) was used to consult the structure of the code and ensure the most up to date versions were applied.
+  - [Google Fonts](https://fonts.google.com/) - To extract fonts for the website.
+
 
   #### Programs
 *The following is a comprehnsive list of useful tools you can use for a project like this:*
@@ -175,7 +182,6 @@ The website is designed with three separate pages. This is to ensure ease of use
   - [Font Awesome](https://fontawesome.com/) - To source any icons used.
   - [GitHub](https://github.com/) - To store associated files & developments of the website.
   - [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - For troubleshooting and testing features, styling and responsiveness.
-  - [Google Fonts](https://codeanywhere.com/signin) - To extract fonts for the website.
   - [Raw Pixel](https://www.rawpixel.com/) - For images.
   - [VS Code](https://code.visualstudio.com/) - Primary IDE used.
 
@@ -267,6 +273,7 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
   ###  Media
 
+  - All images of the products are the property of Kate McGuane Ceramics. 
 *SAMPLE*
   - [Canva](https://www.canva.com/) was used for creating the favicon. Their selection of artworks had the best variety & compatibility for application as a favicon.
   - [Raw Pixel](https://www.rawpixel.com/) was used for sourcing images as it had the best selection available in one place.
@@ -278,5 +285,5 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
   ---
   
-  Developed by Kate McGuane for Code Institute Portfolio Project 5: E-commerce Applications, 2024
+  Developed by Kate McGuane for Code Institute Portfolio Project 5: E-commerce Applications, 2025
 
