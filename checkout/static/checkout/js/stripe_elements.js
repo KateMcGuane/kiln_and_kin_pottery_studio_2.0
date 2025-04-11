@@ -81,7 +81,7 @@ form.addEventListener('submit', function(ev) {
                         city: $.trim(form.town_or_city.value),
                         state: $.trim(form.county.value),
                         country: $.trim(form.country.value),
-                        state: $.trim(form.postcode.value),
+                        state: $.trim(form.county.value),
                     }
                 }
             },
