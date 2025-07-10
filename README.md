@@ -11,47 +11,73 @@
 
 ## User Experience (UX)
 
-
-  ### Target Audience
-  The target audience for this E-commerce platform is for those looking to either purchase a handmade pottery product or parttake in pottery classes and/or workshops. This website in particular is directed at adults looking to purchase a unique, and handcrafted gift (for themselves or soemone else), in addition to adults looking to parttake in pottery as a hobby on a regular or casual basis. The aim is to connect the products with the services offered and convert both consumer types to the aforementioned product(s) or service(s).
+  ### Strategy
   
-  ### User Stories
-
-  #### First Time Visitor
-  As a first time visitor I want to:
-  - easily understand what the website is about, so that I can quickly decide if the content is relevant to me.
-  - navigate the site with ease.
-  - learn more about what products and services are available and if they apply to me.
-  - register an account.
-  - learn more about pottery.
-
-  #### Return Visitor
-  As a return visitor I want to:
-  - quickly find new products/services since my last visit.
-  - easily filter products/services to find those relevant to what I'm looking for.
-  - purchase a product/service with ease.
-  - safely purchase a product/service.
-  - receive a confirmation email to say that my transaction was completed safely and the details of my purchase.
-
-  #### Admin
-  As site admin I want to:
-  - enhance user experience.
-  - grow and engage the audience.
-  - convert site visits to sales.
-  - easily manage customer orders and fulfill them with ease.
-  - make adjustments to website products/services as needed.
-  - communicate all essential information to our customers through the website.
-
----
+    #### Target Audience & Project Goals
+    The target audience for this E-commerce platform is for those looking to either purchase a handmade pottery product or parttake in pottery classes and/or workshops. This website in particular is directed at adults looking to purchase a     unique, and handcrafted gift (for themselves or soemone else), in addition to adults looking to parttake in pottery as a hobby on a regular or casual basis. The aim is to connect the products with the services offered and convert both consumer types to the aforementioned product(s) or service(s).
 
 
-## Design
+  ### Scope
+
+    #### Feature Planning
+
+    
+  ### Structure
+  
+    #### User Stories
+
+      ##### First Time Visitor
+      As a first time visitor I want to:
+      - easily understand what the website is about, so that I can quickly decide if the content is relevant to me.
+      - navigate the site with ease.
+      - learn more about what products and services are available and if they apply to me.
+      - register an account.
+      - learn more about pottery.
+
+      ##### Return Visitor
+      As a return visitor I want to:
+      - quickly find new products/services since my last visit.
+      - easily filter products/services to find those relevant to what I'm looking for.
+      - purchase a product/service with ease.
+      - safely purchase a product/service.
+      - receive a confirmation email to say that my transaction was completed safely and the details of my purchase.
+
+      ##### Admin
+      As site admin I want to:
+      - enhance user experience.
+      - grow and engage the audience.
+      - convert site visits to sales.
+      - easily manage customer orders and fulfill them with ease.
+      - make adjustments to website products/services as needed.
+      - communicate all essential information to our customers through the website.
+
+    #### Database Schema
+
+
+  ### Skeleton
+
+   #### Wireframes
+   
+    Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and iPhone 12Pro (436px x 867px).
+    
+    #### __Home Page__
+  
+    ![Website Home Page](filepath/to/wireframes.png)
+  
+    #### __Gallery Page__
+  
+    ![Website Gallery Page](filepath/to/wireframes.png)
+    #### __Sign Up Page__
+  
+    ![Website Sign Up Page](filepath/to/wireframes.png)
+
+  ### Surface
 
 *SAMPLE*
 The website is designed with three separate pages. This is to ensure ease of use, and for the length of each page to remain concise on a mobile device. It has an intuitive interface with clear navigation. This is emphasised with colour and imagery, allowing for quick access to facilities and respective socials.
 
 
-  ### Colour Scheme
+  #### Colour Scheme
 
   There is a great emphasis on ...... for this website. I wanted it to reflect... <br>
   The colour scheme of the website illustrates...
@@ -69,7 +95,7 @@ The website is designed with three separate pages. This is to ensure ease of use
   Both colour palettes were created using the [Coolors](https://coolors.co/) website.
 
 
-  ### Typography
+  #### Typography
 
 
   [Name of font](https://link_to_font_here)
@@ -87,31 +113,14 @@ The website is designed with three separate pages. This is to ensure ease of use
   Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
 
-  ### Imagery
+  #### Imagery
 
   All images were source from [Raw Pixel](https://www.rawpixel.com/).
 
 
-  ### Favicon
+  #### Favicon
 
     Talk about favicon design choices.
-
-
-  ### Wireframes
-
-  Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and iPhone 12Pro (436px x 867px).
-
-  #### __Home Page__
-
-  ![Website Home Page](filepath/to/wireframes.png)
-
-  #### __Gallery Page__
-
-  ![Website Gallery Page](filepath/to/wireframes.png)
-  #### __Sign Up Page__
-
-  ![Website Sign Up Page](filepath/to/wireframes.png)
-
 
 ---
 
