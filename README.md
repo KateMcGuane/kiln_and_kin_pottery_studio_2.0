@@ -13,63 +13,63 @@
 
   ### Strategy
   
-    #### Target Audience & Project Goals
-    The target audience for this E-commerce platform is for those looking to either purchase a handmade pottery product or parttake in pottery classes and/or workshops. This website in particular is directed at adults looking to purchase a     unique, and handcrafted gift (for themselves or soemone else), in addition to adults looking to parttake in pottery as a hobby on a regular or casual basis. The aim is to connect the products with the services offered and convert both consumer types to the aforementioned product(s) or service(s).
+  #### Target Audience & Project Goals
+  The target audience for this E-commerce platform is for those looking to either purchase a handmade pottery product or parttake in pottery classes and/or workshops. This website in particular is directed at adults looking to purchase a     unique, and handcrafted gift (for themselves or soemone else), in addition to adults looking to parttake in pottery as a hobby on a regular or casual basis. The aim is to connect the products with the services offered and convert both consumer types to the aforementioned product(s) or service(s).
 
 
   ### Scope
 
-    #### Feature Planning
+  #### Feature Planning
 
     
   ### Structure
   
-    #### User Stories
+  #### User Stories
 
-      ##### First Time Visitor
-      As a first time visitor I want to:
-      - easily understand what the website is about, so that I can quickly decide if the content is relevant to me.
-      - navigate the site with ease.
-      - learn more about what products and services are available and if they apply to me.
-      - register an account.
-      - learn more about pottery.
+  ##### First Time Visitor
+  As a first time visitor I want to:
+  - easily understand what the website is about, so that I can quickly decide if the content is relevant to me.
+  - navigate the site with ease.
+  - learn more about what products and services are available and if they apply to me.
+  - register an account.
+  - learn more about pottery.
 
-      ##### Return Visitor
-      As a return visitor I want to:
-      - quickly find new products/services since my last visit.
-      - easily filter products/services to find those relevant to what I'm looking for.
-      - purchase a product/service with ease.
-      - safely purchase a product/service.
-      - receive a confirmation email to say that my transaction was completed safely and the details of my purchase.
+  ##### Return Visitor
+  As a return visitor I want to:
+  - quickly find new products/services since my last visit.
+  - easily filter products/services to find those relevant to what I'm looking for.
+  - purchase a product/service with ease.
+  - safely purchase a product/service.
+  - receive a confirmation email to say that my transaction was completed safely and the details of my purchase.
 
-      ##### Admin
-      As site admin I want to:
-      - enhance user experience.
-      - grow and engage the audience.
-      - convert site visits to sales.
-      - easily manage customer orders and fulfill them with ease.
-      - make adjustments to website products/services as needed.
-      - communicate all essential information to our customers through the website.
+  ##### Admin
+  As site admin I want to:
+  - enhance user experience.
+  - grow and engage the audience.
+  - convert site visits to sales.
+  - easily manage customer orders and fulfill them with ease.
+  - make adjustments to website products/services as needed.
+  - communicate all essential information to our customers through the website.
 
-    #### Database Schema
+  #### Database Schema
 
 
   ### Skeleton
 
-   #### Wireframes
+  #### Wireframes
    
-    Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and iPhone 12Pro (436px x 867px).
+  Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and iPhone 12Pro (436px x 867px).
     
-    #### __Home Page__
-  
-    ![Website Home Page](filepath/to/wireframes.png)
-  
-    #### __Gallery Page__
-  
-    ![Website Gallery Page](filepath/to/wireframes.png)
-    #### __Sign Up Page__
-  
-    ![Website Sign Up Page](filepath/to/wireframes.png)
+  #### __Home Page__
+
+  ![Website Home Page](filepath/to/wireframes.png)
+
+  #### __Gallery Page__
+
+  ![Website Gallery Page](filepath/to/wireframes.png)
+  #### __Sign Up Page__
+
+  ![Website Sign Up Page](filepath/to/wireframes.png)
 
   ### Surface
 
