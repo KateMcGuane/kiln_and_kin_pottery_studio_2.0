@@ -5,7 +5,7 @@
 
 # *Kiln & Kin | Pottery Studio*
 
-[Kiln & Kin | Pottery Studio](https://github.com/KateMcGuane/kiln_and_kin_pottery_studio)
+[Kiln & Kin | Pottery Studio](https://github.com/KateMcGuane/kiln_and_kin_pottery_studio_2.0)
 
 ---
 
